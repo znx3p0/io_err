@@ -2,6 +2,11 @@
 name = "io_err"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "serializable `std::io::Error` with improved ergonomics"
+keywords = ["error", "io", "serde"]
+categories = [ "rust-patterns" ]
+repository = "https://github.com/znx3p0/io_err"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
